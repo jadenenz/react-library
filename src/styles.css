@@ -1,0 +1,6 @@
+.cards--card {
+    display: flex;
+    flex-direction: column;
+    background-color:beige;
+    margin-top: 20px;
+}
